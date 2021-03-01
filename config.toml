@@ -8,10 +8,6 @@ enableEmoji = true
     name = "Categories"
     url = "/categories/"
     weight = 1
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 2
 [[menu.feed]]
     name = "about"
     url = "/about"
@@ -20,3 +16,7 @@ enableEmoji = true
     description = "粤ICP备18140581号-1"
     footer = "Copyright © 2017-2021 張同學 All rights reserved"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
