@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Home</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 01 Mar 2021 12:57:58 +0800</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>算法</title>
+      <link>/categories/%E7%AE%97%E6%B3%95/</link>
+      <pubDate>Mon, 01 Mar 2021 12:57:58 +0800</pubDate>
+      
+      <guid>/categories/%E7%AE%97%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>日常</title>
+      <link>/categories/%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Wed, 27 Jan 2021 14:20:12 +0800</pubDate>
+      
+      <guid>/categories/%E6%97%A5%E5%B8%B8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

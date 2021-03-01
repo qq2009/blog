@@ -1,4 +1,22 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+baseURL = "/"
+languageCode = "zh"
+title = "Home"
+theme = "hugo-classic"
+enableEmoji = true
+
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 1
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+[[menu.feed]]
+    name = "about"
+    url = "/about"
+
+[params]
+    description = "粤ICP备18140581号-1"
+    footer = "Copyright © 2017-2021 張同學 All rights reserved"
+
